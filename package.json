@@ -1,5 +1,5 @@
 {
-  "name": "react-native-reanimated",
+  "name": "@sylvain-abadie/react-native-reanimated",
   "version": "2.4.1",
   "description": "More powerful alternative to Animated library for React Native.",
   "scripts": {
@@ -62,7 +62,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/software-mansion/react-native-reanimated.git"
+    "url": "git+https://github.com/sylvain-abadie/react-native-reanimated.git"
   },
   "author": {
     "email": "krzys.magiera@gmail.com",
